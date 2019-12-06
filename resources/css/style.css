@@ -11,12 +11,12 @@ body{
     font-weight: normal;
     color: white;
 }
-.header-secondry {
+.header-secondary {
     font-weight: 300;
     font-size: 42px;
     color: white;
 }
-.subheader {
+.sub-header {
     font-size: 21px;
     color: grey;
 }
